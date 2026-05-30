@@ -1,0 +1,3 @@
+Node.js permite usar JS fora do navegador
+npm é o gerenciador de pacotes do node.js
+Docker
